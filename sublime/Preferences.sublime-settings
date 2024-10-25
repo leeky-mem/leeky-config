@@ -1,3 +1,5 @@
+// DONT FORGET TO PUSH THIS FILE TO GITHUB WHEN MAKEING CHANGES
+
 {
 	"ignored_packages":["Rust",
 		"Vintage",
