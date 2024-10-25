@@ -1,0 +1,12 @@
+// Settings in here override those in "LSP-pylsp/LSP-pylsp.sublime-settings"
+{
+	"settings": {
+		"pylsp.configurationSources": ["flake8"],
+		"pylsp.plugins.flake8.enabled": true,
+		"pylsp.plugins.pycodestyle.enabled": false,
+		"pylsp.plugins.flake8.maxLineLength": 100,
+		"pylsp.plugins.autopep8.enabled": false,
+		"pylsp.plugins.black.enabled": true,
+		"pylsp.plugins.black.line_length": 100,
+	}
+}
