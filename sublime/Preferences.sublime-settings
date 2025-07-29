@@ -16,6 +16,15 @@
 		"biometric",
 		"authenticator",
 		"authenticators",
+		"endian",
+		"cryptographically",
+		"receival",
+		"uncertified",
+		"retransmit",
+		"retransmitted",
+		"plethysmogram",
+		"keystore",
+		"Winterthur",
 	],
 	"font_size": 11,
 	"rulers": [100, "dotted"],
@@ -23,4 +32,19 @@
 	"index_files": true,
 	"relative_line_numbers": false,
 	"color_scheme": "Mariana.sublime-color-scheme",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html, text.xml",
+		},
+		{
+			"rhs_empty": true,
+			"selector": "punctuation.accessor",
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex",
+		}
+	],
 }
